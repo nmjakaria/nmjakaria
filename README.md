@@ -64,11 +64,8 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/nmjakaria/nmjakaria/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/nmjakaria/nmjakaria/output/github-contribution-grid-snake.svg" />
 </p>
-
-⚠ IMPORTANT:  
-After adding this README, tell me — I’ll give you the GitHub Action code to activate the snake animation.
 
 ---
 
