@@ -88,7 +88,7 @@
 ## 📫 Connect With Me
 
 - 📧 Email: naimullahmdjakaria64@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/naimullahmdjakaria
+- 💼 LinkedIn: [Naimullah Md Jakaria](https://www.linkedin.com/in/naimullah-md-jakaria/)
 
 ---
 
