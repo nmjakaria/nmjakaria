@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Naimullah%20Md%20Jakaria&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20BSc%20CSE&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Naimullah%20Md%20Jakaria&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20BSc%20(Hons.)%20in%20CSE&descAlignY=58&descSize=20" width="100%" />
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;MongoDB+%7C+Firebase+%7C+BetterAuth;Stripe+Payments+%7C+JWT+%7C+REST+APIs;Always+Learning+New+Technologies" />
@@ -35,7 +35,7 @@
 
 ## 🌐 Portfolio
 
-👉 **[View My Portfolio](https://your-portfolio-url-here.com)** ← *(update this link)*
+👉 **[View My Portfolio](https://naimullah-md-jakaria-portfolio.vercel.app)**
 
 ---
 
