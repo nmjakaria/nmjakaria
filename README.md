@@ -35,7 +35,7 @@
 
 ## ⚡ Current Activities
 
-- 🔭 **Currently working on:** Enhancing **RecipeHub** with advanced features and polishing my Next.js backend logic.
+- 🔭 **Currently working on:** Enhancing **Trailwisp** with advanced features and polishing my Next.js backend logic.
 - 🌱 **Currently learning:** Deep diving into **TypeScript** patterns and advanced **Mongoose** schema structures.
 - 👯 **Looking to collaborate on:** Open-source full-stack applications, SaaS platforms, and Next.js projects.
 - ⚡ **Fun fact:** When I'm not coding, I'm usually exploring new tech stacks to figure out how they tick!
