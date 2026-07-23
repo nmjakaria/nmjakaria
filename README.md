@@ -26,10 +26,10 @@
 - 💻 Experienced in building modern full-stack applications with **Next.js, Node.js & MongoDB**
 - 🔐 Comfortable with auth flows — **BetterAuth, JWT, Google OAuth**
 - 💳 Implemented dual **Stripe** payment flows (one-time + subscription)
-- 🌍 Based in **Bangladesh**, open to remote opportunities
+- 🌍 Based in **US, UK and Bangladesh**, open to remote opportunities
 - 🔥 Passionate about **clean UI** & **scalable backend systems**
 - 💬 Ask me about **Next.js, MongoDB, BetterAuth, or Stripe**
-- 🎯 Goal: Become a professional software engineer contributing to impactful products
+- 🎯 Goal: Become a professional software engineer contributing to impactful products.
 
 ---
 
