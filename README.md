@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🎓 Studying **BSc (Hons) in Computer Science & Engineering**
 - 🏗️ Currently building: **RecipeHub** — a full-stack recipe sharing platform with Stripe payments
@@ -33,7 +33,7 @@
 
 ---
 
-## ⚡ Current Activities
+## Current Activities
 
 - 🔭 **Currently working on:** Enhancing **Trailwisp** with advanced features and polishing my Next.js backend logic.
 - 🌱 **Currently learning:** Deep diving into **TypeScript** patterns and advanced **Mongoose** schema structures.
