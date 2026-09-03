@@ -21,24 +21,24 @@
 
 ## About Me
 
-- 🎓 Studying **BSc (Hons) in Computer Science & Engineering**
-- 🏗️ Currently building: **RecipeHub** — a full-stack recipe sharing platform with Stripe payments
-- 💻 Experienced in building modern full-stack applications with **Next.js, Node.js & MongoDB**
-- 🔐 Comfortable with auth flows — **BetterAuth, JWT, Google OAuth**
-- 💳 Implemented dual **Stripe** payment flows (one-time + subscription)
-- 🌍 Based in **US, UK and Bangladesh**, open to remote opportunities
-- 🔥 Passionate about **clean UI** & **scalable backend systems**
-- 💬 Ask me about **Next.js, MongoDB, BetterAuth, or Stripe**
-- 🎯 Goal: Become a professional software engineer contributing to impactful products.
+-  Studying **BSc (Hons) in Computer Science & Engineering**
+-  Currently building: **RecipeHub** — a full-stack recipe sharing platform with Stripe payments
+-  Experienced in building modern full-stack applications with **Next.js, Node.js & MongoDB**
+-  Comfortable with auth flows — **BetterAuth, JWT, Google OAuth**
+-  Implemented dual **Stripe** payment flows (one-time + subscription)
+-  Based in **US, UK and Bangladesh**, open to remote opportunities
+-  Passionate about **clean UI** & **scalable backend systems**
+-  Ask me about **Next.js, MongoDB, BetterAuth, or Stripe**
+-  Goal: Become a professional software engineer contributing to impactful products.
 
 ---
 
 ## Current Activities
 
-- 🔭 **Currently working on:** Enhancing **Trailwisp** with advanced features and polishing my Next.js backend logic.
-- 🌱 **Currently learning:** Deep diving into **TypeScript** patterns and advanced **Mongoose** schema structures.
-- 👯 **Looking to collaborate on:** Open-source full-stack applications, SaaS platforms, and Next.js projects.
-- ⚡ **Fun fact:** When I'm not coding, I'm usually exploring new tech stacks to figure out how they tick!
+-  **Currently working on:** Enhancing **Trailwisp** with advanced features and polishing my Next.js backend logic.
+-  **Currently learning:** Deep diving into **TypeScript** patterns and advanced **Mongoose** schema structures.
+-  **Looking to collaborate on:** Open-source full-stack applications, SaaS platforms, and Next.js projects.
+-  **Fun fact:** When I'm not coding, I'm usually exploring new tech stacks to figure out how they tick!
 
 ---
 
@@ -48,17 +48,17 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech | Links |
 |---------|-------------|------|-------|
-| 🍳 **RecipeHub** | Full-stack recipe sharing platform with Stripe payments & premium membership | Next.js, MongoDB, Stripe, BetterAuth | [🔴 Live](https://recipe-hub-share.vercel.app/) · [💻 Code](https://github.com/nmjakaria/recipe_hub_client) |
-| 🏥 **DocAppoint** | Doctor appointment management with role-based dashboards | Next.js, MongoDB, BetterAuth, JWT | [🔴 Live](https://doctor-appointment-management-coral.vercel.app/) · [💻 Code](https://github.com/nmjakaria/doctor-appointment-management) |
-| 🐄 **QurbaniHut** | Modern livestock marketplace for digital Qurbani transactions | Next.js, MongoDB, BetterAuth | [🔴 Live](https://online-qurbani-bazar.vercel.app/) · [💻 Code](https://github.com/nmjakaria/online-qurbani-bazar) |
-| 🛠️ **DigiTools** | Multi-utility SaaS platform with a suite of productivity tools | React, Node.js, MongoDB, Express | [🔴 Live](https://digitools-platform-by-nmjakaria.netlify.app/) · [💻 Code](https://github.com/nmjakaria/digitools_platform) |
-| 🤝 **KeenKeeper** | Personal relationship & connection management CRM app | React, Node.js, MongoDB, Framer Motion | [🔴 Live](https://keenkeeper-demo.netlify.app) · [💻 Code](https://github.com/naimullahmdjakaria/keenkeeper) |
-| 📝 **MeritHub** | Secure online examination system for educational institutions | React, Firebase, Tailwind CSS | [🔴 Live](https://merithub-exam-system.vercel.app/) · [💻 Code](https://github.com/nmjakaria/MeritHub-Exam-System) |
-| 🏏 **BPL Dream11** | Fantasy cricket team builder with budget tracking logic | React, Tailwind CSS, DaisyUI | [🔴 Live](https://bpl-dream-11-project-by-jakaria.netlify.app) · [💻 Code](https://github.com/nmjakaria/BPL-Dream11-web-first) |
+| 🍳 **RecipeHub** | Full-stack recipe sharing platform with Stripe payments & premium membership | Next.js, MongoDB, Stripe, BetterAuth | [Live](https://recipe-hub-share.vercel.app/) · [Code](https://github.com/nmjakaria/recipe_hub_client) |
+| 🏥 **DocAppoint** | Doctor appointment management with role-based dashboards | Next.js, MongoDB, BetterAuth, JWT | [Live](https://doctor-appointment-management-coral.vercel.app/) · [Code](https://github.com/nmjakaria/doctor-appointment-management) |
+| 🐄 **QurbaniHut** | Modern livestock marketplace for digital Qurbani transactions | Next.js, MongoDB, BetterAuth | [Live](https://online-qurbani-bazar.vercel.app/) · [Code](https://github.com/nmjakaria/online-qurbani-bazar) |
+| 🛠️ **DigiTools** | Multi-utility SaaS platform with a suite of productivity tools | React, Node.js, MongoDB, Express | [Live](https://digitools-platform-by-nmjakaria.netlify.app/) · [ Code](https://github.com/nmjakaria/digitools_platform) |
+| 🤝 **KeenKeeper** | Personal relationship & connection management CRM app | React, Node.js, MongoDB, Framer Motion | [Live](https://keenkeeper-demo.netlify.app) · [💻 Code](https://github.com/naimullahmdjakaria/keenkeeper) |
+| 📝 **MeritHub** | Secure online examination system for educational institutions | React, Firebase, Tailwind CSS | [Live](https://merithub-exam-system.vercel.app/) · [Code](https://github.com/nmjakaria/MeritHub-Exam-System) |
+| 🏏 **BPL Dream11** | Fantasy cricket team builder with budget tracking logic | React, Tailwind CSS, DaisyUI | [Live](https://bpl-dream-11-project-by-jakaria.netlify.app) · [Code](https://github.com/nmjakaria/BPL-Dream11-web-first) |
 
 ---
 
